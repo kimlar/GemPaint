@@ -1,0 +1,7 @@
+Essential TODO:
+==================================
+1. Zoom in/out
+2. Select palette (color)
+3. Place/remove pixels (pen 1x1 pixel)
+4. Flood fill
+5. Line tool
